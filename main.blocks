@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="nus7nAxpGw7={Vsgq_1P">Player</variable><variable type="KIND_SpriteKind" id="$-NI[CHv0HW1nn(c;^r!">Projectile</variable><variable type="KIND_SpriteKind" id="xbanK(qP/A=[;U-L~pTG">Food</variable><variable type="KIND_SpriteKind" id="q}`8[l2T2X8{iZ.~dJ=1">Enemy</variable><variable id="r4v@_`!.d]_`ziELQejQ">myShader</variable><variable id="w=|.-+Ya#v(r?-aT?4W]">mySprite</variable><variable id="0O+vMnXwZkKh+o}Kvu5]">list</variable><variable id=")U;7dbh#=ALSQpSIQRb]">index</variable><variable id="jF~-d21f?g8(`2DkzqT~">value</variable><variable id="bt7U~,*Rx6ITpq4pDCrP">item</variable><variable id="sH4*cT8$Ns-Ld@@BIt8[">shaders</variable><variable id=")tsY74SxyLN@C#@!):r;">shadeLevels</variable><variable id="BF.gT.5MIKhfR~s;!7gE">shaderIndex</variable><variable id=";)Apf!i[@V4HjB1V!yFq">mySprite2</variable><variable id="v_#n)+GZk|@@u5yb`@J8">theDark</variable><variable id="mqhkEQHl-=N{,UWu*iBA">x</variable><variable id="j9OdN5]`f;tYux_FaO/?">y</variable><variable id="{qn`wT@]-f:!Y!lN1?ja">activeIndex</variable><variable id="+.w}_=o1i-@q^+xs{A.]">picture</variable><variable id="+k.Nfc6UMK[|)?[44%lL">check1</variable><variable id="GJb:J/u~yD:MF-AIg;u5">check2</variable><variable id="~cV9ka,c4X6a}9.a`$:e">check3</variable><variable id="uVJNIRO04D)ykE;)Kg2!">mySprite3</variable><variable id="VirQ`]rw)IN6Yrig=beZ">mySprite4</variable></variables><block type="variables_set" id="+YUBjUDhIK[8vxuNHfGE" disabled="true" x="0" y="0"><field name="VAR" id="w=|.-+Ya#v(r?-aT?4W]">mySprite</field><value name="VALUE"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="shader_createImageShaderSprite" id="/X$n=uim4C7ldvMW7@T[" disabled="true"><value name="image"><shadow type="screen_image_picker" id=".?=%#^rtiklmtVNRN5FR" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":".?=%#^rtiklmtVNRN5FR"}}</data></shadow></value><value name="shadeLevel"><shadow type="shader_shadelevel" id="b~WMLi7E,)1?}{owz)^o" disabled="true"><field name="level">shader.ShadeLevel.One</field></shadow></value></block></value></block><block type="shader_createRectangularShaderSprite" id="cG6@ar5*/WWe,,NHOTRi" disabled="true" x="-10" y="150"><value name="width"><shadow type="math_number" id="q9y=)XO_1GT$N@qZghU^" disabled="true"><field name="NUM">16</field></shadow></value><value name="height"><shadow type="math_number" id="sQOpFXQ6bK$0R7S]P)WX" disabled="true"><field name="NUM">16</field></shadow></value><value name="shadeLevel"><shadow type="shader_shadelevel" id="#X_Z]$TH15hZasB~*~}J" disabled="true"><field name="level">shader.ShadeLevel.One</field></shadow></value></block><block type="shader_shadelevel" id=":~^lFSX8XdF8]z-DR$g`" disabled="true" x="0" y="240"><field name="level">shader.ShadeLevel.One</field></block></xml>

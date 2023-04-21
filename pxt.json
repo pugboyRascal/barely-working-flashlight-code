@@ -1,0 +1,34 @@
+{
+    "name": "barely working flashlight code!",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-shader": "github:riknoll/arcade-shader#d2a2572906fdb68ff429f337e30606b069e688ea",
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.2.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.6.24",
+        "tag": "v1.6.24",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5bea1575ea693e0648a647cbd86cda9776d58f48",
+        "target": "1.12.30",
+        "pxt": "7.2.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
